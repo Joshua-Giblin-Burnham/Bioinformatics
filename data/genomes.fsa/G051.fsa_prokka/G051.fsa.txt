@@ -1,0 +1,7 @@
+organism: Rhizobium leguminosarum strain 
+contigs: 134
+bases: 8017358
+CDS: 7541
+rRNA: 3
+tRNA: 49
+tmRNA: 1
