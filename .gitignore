@@ -1,0 +1,7 @@
+data/genomes.fsa/REP_panaroo_output/gene_data.csv
+data/genomes.fsa/REP_panaroo_output/gene_data.csv
+data/genomes.fsa/panaroo_output/*.gml
+data/genomes.fsa/panaroo_output/*.fasta
+data/genomes.fsa/panaroo_output/gene_data.csv    
+data/genomes.fsa/pirate_output/pan_sequences.fasta
+data/pyani_output/
